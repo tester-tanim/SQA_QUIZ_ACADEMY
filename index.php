@@ -234,7 +234,7 @@ $categories = $stmt->fetchAll();
                 </div>
                 <div class="col-md-6 text-md-end">
                     <p>&copy; 2024 SQA Quiz Academy. All rights reserved.</p>
-                    <p>Built with <i class="fas fa-heart text-danger"></i> for the SQA community</p>
+                    <p>Built with <i class="fas fa-heart text-danger"></i> Made By Tanim</p>
                 </div>
             </div>
         </div>
